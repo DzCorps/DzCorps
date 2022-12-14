@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DzCorps
-- 👀 I’m interested in IONIC, JAVA, CORDOVA, SPRING, ANGULAR, REACT, KEYCLOAK, CODEIGNITER
-- 🌱 I’m currently learning CAPACITOR
+- 👀 I’m interested in IONIC, JAVA, CORDOVA, CAPACITOR, SPRING, ANGULAR, REACT, KEYCLOAK, CODEIGNITER
+- 🌱 I’m currently learning Electron
 - 💞️ I’m looking to collaborate on OPEN SOURCE PROJECTS :) 
 - 📫 How to reach me wail.djenane@gmail.com
 
